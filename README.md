@@ -41,4 +41,3 @@ This project demonstrates integration between backend logic (Go) and a frontend 
 
 Designed with clarity, usability, and correctness in mind.
 
-🧠 Author
