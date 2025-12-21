@@ -32,6 +32,7 @@ The Temperature Converter window will open.
 Enter a temperature value, select the conversion type, and click Convert.
 
 📸 Screenshot
+
 ![Temperature Converter GUI](assets/demo_output.png)
 
 📌 Notes
